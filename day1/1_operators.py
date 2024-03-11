@@ -44,3 +44,10 @@ print (a)
 # Iterable means sequence of data
 Vowels = ("a", "e", "i", "o", "u")
 print ("b" in Vowels)
+# 6. Identity Operators
+# is and is not
+# to check if the objevts are same or not
+a=1
+b=a
+print (a is b)
+
