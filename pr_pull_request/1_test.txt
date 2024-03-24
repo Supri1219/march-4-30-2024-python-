@@ -1,0 +1,12 @@
+a = 2
+b = a
+
+print (a+b)
+
+c = 35
+d = 873
+
+print (a+b+c+d)
+
+print (a/b)
+
