@@ -12,3 +12,4 @@ for each in s:
         continue
     result += each 
 print(result)
+
